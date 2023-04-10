@@ -1,3 +1,3 @@
 # Kivy - Android
 
-Exploraciónes con Kivy para Python
+Exploraciones con Kivy para Python
