@@ -1,3 +1,3 @@
-# Kivy - Android
+# Kivy Repo
 
-Kivy para Python
+Repositorio de estudio/exploración/práctica
